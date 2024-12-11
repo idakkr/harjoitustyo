@@ -1,2 +1,2 @@
-## Login page 
+## Login Page 
 [Mainpage](index.md)
