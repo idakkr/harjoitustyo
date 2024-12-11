@@ -1,6 +1,11 @@
-With WorkOutApp you are able to: 
+Different Running Workouts
 
-- Track your daily, weekly and monthly workouts
-- Document your workouts, results and records
+## Speed Runs
+
+## Long Runs
+
+## Recovery Runs 
+
+And the most important - Remember the weekly Rest Days!
 
 [Mainpage](index.md)
