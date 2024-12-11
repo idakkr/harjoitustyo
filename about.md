@@ -1,5 +1,3 @@
-## About
-
 With WorkOutApp you are able to: 
 
 - Track your daily, weekly and monthly workouts
