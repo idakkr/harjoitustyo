@@ -2,6 +2,6 @@
 Welcome to track your workouts!
 ## Menu:
 - [About](about/about.html)
-- [Log In](login/login.html
+- [Log In](login/login.html)
 - [Home](index.md)
 - [Workout planner](planner/planner.html)
