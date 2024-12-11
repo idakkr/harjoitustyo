@@ -1,10 +1,10 @@
-Different Running Workouts
+## Different Running Workouts
 
-## Speed Runs
+Speed Runs
 
-## Long Runs
+Long Runs
 
-## Recovery Runs 
+Recovery Runs 
 
 And the most important - Remember the weekly Rest Days!
 
