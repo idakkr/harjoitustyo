@@ -1,4 +1,4 @@
-Welcome to the GoodRunClub - Your Journey to the Half-Marathon's Finish Line starts here!
+Welcome to the GoodRunClub - Your Journey to Half-Marathon's Finish Line starts here!
 
 - [Home](index.md)
 - [Login Page - Members](login/login.html)
