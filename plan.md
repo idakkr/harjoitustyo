@@ -1,2 +1,2 @@
-### 10 Weeks to Go
+## 10 Weeks to Go
 [Mainpage](index.md)
