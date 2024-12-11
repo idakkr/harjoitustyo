@@ -1,6 +1,7 @@
 ## WorkOutApp
 Welcome to track your workouts!
 ## Menu:
-- About
-- Log In
-- Home
+- [About](about/about.html)
+- [Log In](login/login.html
+- [Home](index.md)
+- [Workout planner](planner/planner.html)
