@@ -1,5 +1,3 @@
-## WorkOutApp
-Welcome to track your workouts!
 ## Menu:
 - [About](about/about.html)
 - [Log In](login/login.html)
