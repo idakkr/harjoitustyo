@@ -1,3 +1,4 @@
+## Your Workout Planner 
 ## Menu:
 - [About](about/about.html)
 - [Log In](login/login.html)
