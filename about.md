@@ -1,4 +1,4 @@
-# Different Running Workouts
+# Running Workouts
 
 Speed Runs
 
