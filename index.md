@@ -1,4 +1,3 @@
-## 
 Welcome to use your new and effective Workout Planner!
 ## 
 Menu: 
