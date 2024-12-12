@@ -1,6 +1,6 @@
 ## Apps
 
-Half-Marathon Training Apps - Helps you to reach the Finish Line
+Half-Marathon Training Apps - Helps You to Reach the Finish Line
 
 ![image](https://github.com/user-attachments/assets/eb91d534-90c3-4240-958b-aee78b6790a0)
 ![image](https://github.com/user-attachments/assets/efad2cae-35e2-4639-8e3b-2d9695a67a81)
