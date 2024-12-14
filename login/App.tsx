@@ -41,23 +41,16 @@ return (
   <>
     <div>
     </div>
-      <h1>Log In</h1>
+      <h1>Login to your page</h1>
     <div className="card">
-      <button onClick={() => setCount((count) => count + 1)}>
-        Log In {count}
-      </button>
       <p>
       </p>
       <p>
         <LoginForm />
       </p>
     </div>
-    <p className="read-the-docs">
-      Log in to Your page! 
-    </p>
   </>
 )
 }
 
 export default App
-
