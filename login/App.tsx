@@ -30,10 +30,9 @@ function App() {
 
   <div className="card">
         <button onClick={(handleClick)}>
-          count is {count}
+          Log In {count}
         </button>
         <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
         </p>
       </div>
 
@@ -42,20 +41,19 @@ return (
   <>
     <div>
     </div>
-    <h1>Vite + React</h1>
+      <h1>Log In</h1>
     <div className="card">
       <button onClick={() => setCount((count) => count + 1)}>
-        Laskurin arvo on {count}
+        Log In {count}
       </button>
       <p>
-        Edit <code>src/App.tsx</code> and save to test HMR
       </p>
       <p>
         <LoginForm />
       </p>
     </div>
     <p className="read-the-docs">
-      Click on the Vite and React logos to learn more
+      Log in to Your page! 
     </p>
   </>
 )
