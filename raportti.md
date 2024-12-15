@@ -16,14 +16,14 @@ Sivusto on testattu uusimmilla selainversioilla alla olevista verkkoselaimista. 
 #### Google Chrome: 
 Toimii moitteettomasti. Latautumisajat haettu Google Chromen -selaimen kautta. 
 
-#### Mozilla Firefox (v110): 
-Toimii moitteettomasti. Sivusto, alasivut ja mediat latautuvat sujuvasti.
-
 #### Microsoft Edge (uusin versio co-pilot tekoälyominaisuudella): 
-Toimii moitteettomasti. Sivusto, alasivut ja mediat latautuvat sujuvasti. 
+Toimii moitteettomasti. Sivusto, alasivut ja mediat latautuvat sujuvasti.
 
 #### DuckDuckGo: 
 Toimii sujuvasti. Sivuston ja alasivujen latautuminen hieman hitaampaa, kuin esimerkiksi Google Chromen -selaimella. 
+
+#### Mozilla Firefox (v110): 
+Toimii moitteettomasti. Sivusto, alasivut ja mediat latautuvat sujuvasti.
 
 
 ### Sivujen latautumisaika
