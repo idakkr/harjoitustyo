@@ -12,8 +12,8 @@ Sivusto toimii mobiilissa samoin, kuin Desktopilla. Navigointi on vaivatonta ja 
 ### Toimivuus uusimmilla selaimilla
 Sivusto on testattu uusimmilla selainversioilla alla olevista verkkoselaimista. Sivusto toimiii, latautuu ja on responsiivinen kaikissa kyseisissä uusimmissa selainversioissa moitteettomasti ja sujuvasti. 
 
-#### Google: 
-Toimii moitteettomasti. 
+#### Google Chrome: 
+Toimii moitteettomasti. Latautumisajat haettu Google Chromen -selaimen kautta. 
 
 #### Mozilla Firefox (v110): 
 Toimii moitteettomasti. Sivusto, alasivut ja mediat latautuvat sujuvasti.
@@ -21,7 +21,7 @@ Toimii moitteettomasti. Sivusto, alasivut ja mediat latautuvat sujuvasti.
 #### Microsoft Edge (uusin versio co-pilot tekoälyominaisuudella): 
 Toimii moitteettomasti. Sivusto, alasivut ja mediat latautuvat sujuvasti. 
 
-#### DuckDuckGo
+#### DuckDuckGo: 
 Toimii sujuvasti. Sivuston ja alasivujen latautuminen hieman hitaampaa, kuin esimerkiksi Google Chromen -selaimella. 
 
 ### Sivujen latautumisaika
