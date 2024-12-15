@@ -22,6 +22,7 @@ Toimii moitteettomasti. Sivusto, alasivut ja mediat latautuvat sujuvasti.
 Toimii moitteettomasti. Sivusto, alasivut ja mediat latautuvat sujuvasti. 
 
 #### DuckDuckGo
+Toimii sujuvasti. Sivuston ja alasivujen latautuminen hieman hitaampaa, kuin esimerkiksi Google Chromen -selaimella. 
 
 ### Sivujen latautumisaika
 Sivujen latautumisaika molemmissa päätelaitteissa erinomainen. 
