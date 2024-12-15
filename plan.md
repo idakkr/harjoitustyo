@@ -1,4 +1,4 @@
-## 10 viikon ohjelma
+## 10 viikon harjoitusohjelma
 
 10 viikon ohjelmarunko puolimaratonille
 
