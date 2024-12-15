@@ -5,6 +5,6 @@ Sivustolta löytyy ilmainen 10 -viikon harjoitteluohjelma puolimaratonille ja vi
 
 - [Kirjaudu sisään](login/index.html)
 - [Juoksuharjoittelu](about.md)
-- [10 -viikon harjoitusohjelma puolimaratonille](plan.md)
+- [10 viikon harjoitusohjelma puolimaratonille](plan.md)
 - [Juoksuharjoittelun mobiilisovellukset](apps.md)
 - [Raportti harjoitustyöstä](raportti.md)
