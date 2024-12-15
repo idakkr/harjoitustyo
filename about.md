@@ -6,7 +6,7 @@ Nopeusharjoittelua voi toteuttaa esimerkiksi 100 - 200 metrin reippailla vedoill
 
 # Kestävyysharjoittelu
 
-Kestävyysharjoittelua on nopeus-, vauhti- ja maksimikestävyysharjoittelu. 
+Kestävyysharjoittelua on perus-, nopeus-, vauhti- ja maksimikestävyysharjoittelu. 
 
 Esimerkiksi puolimaratonille vauhtikestävyysharjoitys on intervalliharjoitus minuuttivedoilla. 
 
