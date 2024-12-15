@@ -1,7 +1,7 @@
-Welcome to the GoodRunClub - Your Journey to Half-Marathon's Finish Line starts here!
+Tervetuloa GoodRunClubiin! 
 
-- [Log In](login/index.html)
-- [Learn the different Running Workouts](about.md)
-- [Half-Marathon Training Plan - 10 Weeks to Go](plan.md)
-- [Half-Marathon Training Apps](apps.md)
+- [Kirjaudu sisään](login/index.html)
+- [Erilaisia juoksuharjoitteita](about.md)
+- [10 -viikon harjoitusohjelma puolimaratonille](plan.md)
+- [Harjoitteluun soveltuvia mobiilisovelluksia](apps.md)
 - [Raportti harjoitustyöstä](raportti.md)
