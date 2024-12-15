@@ -1,6 +1,7 @@
 ## Harjoitustyö
 
 ### Responsiivisuus
+Toimivuus kahdella eri päätelaitteella. 
 
 #### Desktop
 
