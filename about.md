@@ -1,11 +1,9 @@
-# Running Workouts
+# Juoksuharjoittelu
 
-Speed Runs
+Nopeusharjoittelu
 
-Long Runs
+Kestävyysharjoittelu
 
-Recovery Runs 
+Palauttavat harjoitteet  
 
-And the most important - Remember the weekly Rest Days!
-
-[Mainpage](index.md)
+[Takaisin etusivulle](index.md)
