@@ -1,12 +1,12 @@
-Harjoitustyö 
+# Harjoitustyö 
 
-Responsiivisuus
+### Responsiivisuus
 
 Desktop
 
 Mobiili
 
-Toimivuus uusimmilla selaimilla: 
+### Toimivuus uusimmilla selaimilla: 
 
 Google
 
@@ -16,7 +16,7 @@ Microsoft Edge
 
 DuckDuckGo
 
-Sivujen latautumisaika
+### Sivujen latautumisaika
 
 Desktop
 ![image](https://github.com/user-attachments/assets/4ffbf71d-133d-4975-b1fb-47461a732a59)
@@ -31,6 +31,6 @@ Largest Contentful Paint (LCP)
 Total Blocking Time (TBT)
 Cumulative Layout Shift (CLS): 
 
-Yhteenveto
+### Yhteenveto
 
 [Takaisin etusivulle](index.md)
