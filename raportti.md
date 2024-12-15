@@ -1,28 +1,28 @@
-# Harjoitustyö 
+## Harjoitustyö 
 
 ### Responsiivisuus
 
-Desktop
+#### Desktop
 
-Mobiili
+#### Mobiili
 
 ### Toimivuus uusimmilla selaimilla: 
 
-Google
+#### Google
 
-Mozilla Firefox
+#### Mozilla Firefox
 
-Microsoft Edge
+#### Microsoft Edge
 
-DuckDuckGo
+#### DuckDuckGo
 
 ### Sivujen latautumisaika
 
-Desktop
+#### Desktop
 ![image](https://github.com/user-attachments/assets/4ffbf71d-133d-4975-b1fb-47461a732a59)
 
 
-Mobiili
+#### Mobiili
 ![image](https://github.com/user-attachments/assets/4434fbfb-f7f9-41d3-b2ca-dc550ec1a9f3)
 
 
