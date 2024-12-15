@@ -1,7 +1,7 @@
 Tervetuloa GoodRunClubiin! 
 
 - [Kirjaudu sisään](login/index.html)
-- [Erilaisia juoksuharjoitteita](about.md)
+- [Juoksuharjoittelu](about.md)
 - [10 -viikon harjoitusohjelma puolimaratonille](plan.md)
-- [Harjoitteluun soveltuvia mobiilisovelluksia](apps.md)
+- [Juoksuharjoittelun mobiilisovellukset](apps.md)
 - [Raportti harjoitustyöstä](raportti.md)
