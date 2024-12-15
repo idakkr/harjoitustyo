@@ -1,7 +1,7 @@
 Tervetuloa GoodRunClubiin!
 
 Sivustolta löydät tietoa juoksuharjoittelusta. 
-Sivustolla on esimerkki 10 viikon harjoitusohjelmarungosta puolimaratonille. Löydät myös vinkkejä juoksuharjoittelua auttavista mobiilisovelluksista. 
+Sivustolla on esimerkki 10 viikon harjoitusohjelmarungosta puolimaratonille. Löydät myös vinkkejä juoksuharjoittelua tukevista mobiilisovelluksista. 
 
 - [Kirjaudu sisään](login/index.html)
 - [Juoksuharjoittelu](about.md)
