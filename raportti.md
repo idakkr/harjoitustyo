@@ -4,10 +4,10 @@
 Toimivuus kahdella eri päätelaitteella. 
 
 #### Desktop
-Sivusto toimii sujuvasti ja moitteettomasti. Sivustolla on vaivatonta navigoida ja kaikki välilehdet toimivat. Käyttäjäkokemuksen kannalta visuaalista ulkoasua tulisi vielä hieman hioa. Sivuston ylätunnisteet toimivat, joista pääsee sivuston alasivuille ja etusivulle. Kaikki alasivut ja sivuston mediat latautuvat moitteettomasti. 
+Sivusto toimii sujuvasti, jossa on vaivatonta navigoida. Käyttäjäkokemuksen kannalta visuaalista ulkoasua tulisi vielä hioa. Sivuston valikko / navigaatiopalkki toimii moitteettomasti sivuston ylätunnisteessa. Kaikki alasivut ja sivuston mediat latautuvat tehokkaasti. 
 
 #### Mobiili
-Sivusto toimii mobiilissa samoin, kuin Desktopilla. Navigointi on vaivatonta ja selkeää. Ylätunnisteet ja linkit toimivat moitteettomasti. Kaikki alasivut latautuvat moitteettomasti. Sivuston media latautuu ja näkymä muotoutuu päätelaitteen mukaisesti. 
+Sivusto toimii mobiilissa samoin, kuin Desktopilla. Navigointi on vaivatonta ja selkeää. Navigaatiopalkki ylätunnisteessa mukautuu päätelaitteen mukaan sujuvasti ja kaikki alasivut toimivat erittäin moitteettomasti. Sivuston media latautuu ja näkymä muotoutuu päätelaitteen mukaisesti. 
 
 ### Toimivuus uusimmilla selaimilla: 
 
