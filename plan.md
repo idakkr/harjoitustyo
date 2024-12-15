@@ -1,2 +1,2 @@
 ## 10 -viikon ohjelma
-[Mainpage](index.md)
+[Takaisin etusivulle](index.md)
