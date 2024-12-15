@@ -1,6 +1,6 @@
 ## Sovellukset
 
-Juoksuharjoitteluun soveltuvia mobiilisovelluksia, jotka auttavat harjoittelussa. 
+Juoksuharjoitteluun soveltuvia mobiilisovelluksia. 
 - Strava
 - Polar
 - Nike Run App
