@@ -9,6 +9,9 @@ Sivusto toimii sujuvasti, jossa on vaivatonta navigoida. Käyttäjäkokemuksen k
 #### Mobiili
 Sivusto toimii mobiilissa samoin, kuin Desktopilla. Navigointi on vaivatonta ja selkeää. Navigaatiopalkki ylätunnisteessa mukautuu päätelaitteen mukaan sujuvasti ja kaikki alasivut toimivat erittäin moitteettomasti. Sivuston media latautuu ja näkymä muotoutuu päätelaitteen mukaisesti. 
 
+### Nielsenin 10 heuristiikkaa
+Sivusto on suomenkielinen. Kaikki alasivut ovat samanlaisella teemalla, poislukien kirjautumissivusto. Navigointi sivustolla on selkeää, helppoa ja sujuvaa. 
+Sivusto on kokonaisuudessaan selkeä ja yksinkertainen. 
 
 ### Toimivuus uusimmilla selaimilla
 Sivusto on testattu uusimmilla selainversioilla alla olevista verkkoselaimista. Sivusto toimiii, latautuu ja on responsiivinen kaikissa kyseisissä uusimmissa selainversioissa moitteettomasti ja sujuvasti. 
