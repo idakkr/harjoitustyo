@@ -9,17 +9,24 @@ Sivusto toimii sujuvasti, jossa on vaivatonta navigoida. Käyttäjäkokemuksen k
 #### Mobiili
 Sivusto toimii mobiilissa samoin, kuin Desktopilla. Navigointi on vaivatonta ja selkeää. Navigaatiopalkki ylätunnisteessa mukautuu päätelaitteen mukaan sujuvasti ja kaikki alasivut toimivat erittäin moitteettomasti. Sivuston media latautuu ja näkymä muotoutuu päätelaitteen mukaisesti. 
 
-### Toimivuus uusimmilla selaimilla: 
+### Toimivuus uusimmilla selaimilla
+Sivusto on testattu uusimmilla selainversioilla alla olevista verkkoselaimista. Sivusto toimiii, latautuu ja on responsiivinen kaikissa kyseisissä uusimmissa selainversioissa moitteettomasti ja sujuvasti. 
 
-#### Google
+#### Google: 
+Toimii moitteettomasti. 
 
-#### Mozilla Firefox
+#### Mozilla Firefox (v110): 
+Toimii moitteettomasti. Sivusto, alasivut ja mediat latautuvat sujuvasti.
 
-#### Microsoft Edge
+#### Microsoft Edge (uusin versio co-pilot tekoälyominaisuudella): 
+Toimii moitteettomasti. Sivusto, alasivut ja mediat latautuvat sujuvasti. 
 
 #### DuckDuckGo
 
 ### Sivujen latautumisaika
+Sivujen latautumisaika molemmissa päätelaitteissa erinomainen. 
+
+Latautumisaika tarkistettu [täältä](https://pagespeed.web.dev/)
 
 #### Desktop
 
