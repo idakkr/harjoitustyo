@@ -1,16 +1,25 @@
 Harjoitustyö 
+
 Responsiivisuus
+
 Desktop
+
 Mobiili
 
 Toimivuus uusimmilla selaimilla: 
+
 Google
+
 Mozilla Firefox
+
 Microsoft Edge
+
 DuckDuckGo
 
 Sivujen latautumisaika
+
 Desktop
+
 Mobiili 
 
 First Contentful Paint (FCP)
