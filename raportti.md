@@ -46,5 +46,7 @@ Latautumisajat tarkistettu [täältä](https://pagespeed.web.dev/).
 ### Yhteenveto
 Sivuston latautumisajat ovat erinomaiset. Sivusto on responsiivinen, helposti navigoitavissa ja selkeä kaikissa testatuissa päätelaitteissa. Sivusto on yhteensopiva testattujen uusimpien selainversioiden kanssa. Käyttäjäkokemukseen vaikuttaa positiivisesti nopeat latautumisajat kaikilla testatuilla selaimilla ja responsiivisuus eri päätelaitteissa. Sivuston visuaalista ilmettä tulee vielä hioa, jotta käyttäjäkokemus parantuisi entisestään. 
 
+Sivusto käyttää Matomo taginhallintatyökalua. 
+Sivuston tunnus Matomossa: idakkr
 
 [Takaisin etusivulle](index.md)
