@@ -4,3 +4,4 @@ Welcome to the GoodRunClub - Your Journey to Half-Marathon's Finish Line starts 
 - [Learn the different Running Workouts](about.md)
 - [Half-Marathon Training Plan - 10 Weeks to Go](plan.md)
 - [Half-Marathon Training Apps](apps.md)
+- [Raportti harjoitustyöstä](raportti.md)
