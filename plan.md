@@ -1,2 +1,2 @@
-## 10 Weeks to Go
+## 10 -viikon ohjelma
 [Mainpage](index.md)
