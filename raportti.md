@@ -26,7 +26,7 @@ Toimii moitteettomasti. Sivusto, alasivut ja mediat latautuvat sujuvasti.
 ### Sivujen latautumisaika
 Sivujen latautumisaika molemmissa päätelaitteissa erinomainen. 
 
-Latautumisaika tarkistettu [täältä](https://pagespeed.web.dev/)
+Latautumisajat tarkistettu [täältä](https://pagespeed.web.dev/).
 
 #### Desktop
 
